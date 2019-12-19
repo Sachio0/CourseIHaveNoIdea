@@ -1,0 +1,17 @@
+C:\Users\snowinski\source\repos\Course\Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\snowinski\source\repos\Course\Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\snowinski\source\repos\Course\Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\snowinski\source\repos\Course\Tests\bin\Debug\netcoreapp2.2\Tests.deps.json
+C:\Users\snowinski\source\repos\Course\Tests\bin\Debug\netcoreapp2.2\Tests.runtimeconfig.json
+C:\Users\snowinski\source\repos\Course\Tests\bin\Debug\netcoreapp2.2\Tests.runtimeconfig.dev.json
+C:\Users\snowinski\source\repos\Course\Tests\bin\Debug\netcoreapp2.2\Tests.dll
+C:\Users\snowinski\source\repos\Course\Tests\bin\Debug\netcoreapp2.2\Tests.pdb
+C:\Users\snowinski\source\repos\Course\Tests\bin\Debug\netcoreapp2.2\Course.dll
+C:\Users\snowinski\source\repos\Course\Tests\bin\Debug\netcoreapp2.2\Course.pdb
+C:\Users\snowinski\source\repos\Course\Tests\obj\Debug\netcoreapp2.2\Tests.csprojAssemblyReference.cache
+C:\Users\snowinski\source\repos\Course\Tests\obj\Debug\netcoreapp2.2\Tests.csproj.CoreCompileInputs.cache
+C:\Users\snowinski\source\repos\Course\Tests\obj\Debug\netcoreapp2.2\Tests.AssemblyInfoInputs.cache
+C:\Users\snowinski\source\repos\Course\Tests\obj\Debug\netcoreapp2.2\Tests.AssemblyInfo.cs
+C:\Users\snowinski\source\repos\Course\Tests\obj\Debug\netcoreapp2.2\Tests.csproj.CopyComplete
+C:\Users\snowinski\source\repos\Course\Tests\obj\Debug\netcoreapp2.2\Tests.dll
+C:\Users\snowinski\source\repos\Course\Tests\obj\Debug\netcoreapp2.2\Tests.pdb
