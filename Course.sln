@@ -3,13 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.960
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Start", "Course\Start.csproj", "{DE192C20-97DD-4C70-AAB7-58D19B883DB7}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectProgramming", "ObjectProgramming\ObjectProgramming.csproj", "{4EDF0037-2C24-4A18-ABD3-1CEB64B45BB1}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Course", "Course\Course.csproj", "{2A244FCF-17F9-4462-9E5B-F31051D235C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing", "Testing\Testing.csproj", "{036A6925-FAB2-49D1-960A-A33A6F0DC18C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Testing", "Testing\Testing.csproj", "{036A6925-FAB2-49D1-960A-A33A6F0DC18C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DE192C20-97DD-4C70-AAB7-58D19B883DB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DE192C20-97DD-4C70-AAB7-58D19B883DB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DE192C20-97DD-4C70-AAB7-58D19B883DB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DE192C20-97DD-4C70-AAB7-58D19B883DB7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4EDF0037-2C24-4A18-ABD3-1CEB64B45BB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4EDF0037-2C24-4A18-ABD3-1CEB64B45BB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EDF0037-2C24-4A18-ABD3-1CEB64B45BB1}.Release|Any CPU.ActiveCfg = Release|Any CPU

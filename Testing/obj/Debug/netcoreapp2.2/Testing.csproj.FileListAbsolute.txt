@@ -15,3 +15,4 @@ C:\projekty\Course\Testing\obj\Debug\netcoreapp2.2\Testing.AssemblyInfo.cs
 C:\projekty\Course\Testing\obj\Debug\netcoreapp2.2\Testing.csproj.CopyComplete
 C:\projekty\Course\Testing\obj\Debug\netcoreapp2.2\Testing.dll
 C:\projekty\Course\Testing\obj\Debug\netcoreapp2.2\Testing.pdb
+C:\projekty\Course\Testing\bin\Debug\netcoreapp2.2\Course.dll.config

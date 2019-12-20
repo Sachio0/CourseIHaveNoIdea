@@ -19,3 +19,5 @@ C:\projekty\Course\Course\obj\Debug\netcoreapp2.2\Course.AssemblyInfoInputs.cach
 C:\projekty\Course\Course\obj\Debug\netcoreapp2.2\Course.AssemblyInfo.cs
 C:\projekty\Course\Course\obj\Debug\netcoreapp2.2\Course.dll
 C:\projekty\Course\Course\obj\Debug\netcoreapp2.2\Course.pdb
+C:\projekty\Course\Course\obj\Debug\netcoreapp2.2\Course.csprojAssemblyReference.cache
+C:\projekty\Course\Course\bin\Debug\netcoreapp2.2\Course.dll.config
