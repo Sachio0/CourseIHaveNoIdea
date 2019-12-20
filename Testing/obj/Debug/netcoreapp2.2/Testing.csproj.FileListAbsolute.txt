@@ -1,0 +1,17 @@
+C:\projekty\Course\Testing\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\projekty\Course\Testing\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\projekty\Course\Testing\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\projekty\Course\Testing\bin\Debug\netcoreapp2.2\Testing.deps.json
+C:\projekty\Course\Testing\bin\Debug\netcoreapp2.2\Testing.runtimeconfig.json
+C:\projekty\Course\Testing\bin\Debug\netcoreapp2.2\Testing.runtimeconfig.dev.json
+C:\projekty\Course\Testing\bin\Debug\netcoreapp2.2\Testing.dll
+C:\projekty\Course\Testing\bin\Debug\netcoreapp2.2\Testing.pdb
+C:\projekty\Course\Testing\bin\Debug\netcoreapp2.2\Course.dll
+C:\projekty\Course\Testing\bin\Debug\netcoreapp2.2\Course.pdb
+C:\projekty\Course\Testing\obj\Debug\netcoreapp2.2\Testing.csprojAssemblyReference.cache
+C:\projekty\Course\Testing\obj\Debug\netcoreapp2.2\Testing.csproj.CoreCompileInputs.cache
+C:\projekty\Course\Testing\obj\Debug\netcoreapp2.2\Testing.AssemblyInfoInputs.cache
+C:\projekty\Course\Testing\obj\Debug\netcoreapp2.2\Testing.AssemblyInfo.cs
+C:\projekty\Course\Testing\obj\Debug\netcoreapp2.2\Testing.csproj.CopyComplete
+C:\projekty\Course\Testing\obj\Debug\netcoreapp2.2\Testing.dll
+C:\projekty\Course\Testing\obj\Debug\netcoreapp2.2\Testing.pdb

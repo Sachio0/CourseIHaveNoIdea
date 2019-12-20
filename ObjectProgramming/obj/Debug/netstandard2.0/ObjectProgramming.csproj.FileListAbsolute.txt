@@ -1,0 +1,9 @@
+C:\projekty\Course\ObjectProgramming\bin\Debug\netstandard2.0\ObjectProgramming.deps.json
+C:\projekty\Course\ObjectProgramming\bin\Debug\netstandard2.0\ObjectProgramming.dll
+C:\projekty\Course\ObjectProgramming\bin\Debug\netstandard2.0\ObjectProgramming.pdb
+C:\projekty\Course\ObjectProgramming\obj\Debug\netstandard2.0\ObjectProgramming.csprojAssemblyReference.cache
+C:\projekty\Course\ObjectProgramming\obj\Debug\netstandard2.0\ObjectProgramming.csproj.CoreCompileInputs.cache
+C:\projekty\Course\ObjectProgramming\obj\Debug\netstandard2.0\ObjectProgramming.AssemblyInfoInputs.cache
+C:\projekty\Course\ObjectProgramming\obj\Debug\netstandard2.0\ObjectProgramming.AssemblyInfo.cs
+C:\projekty\Course\ObjectProgramming\obj\Debug\netstandard2.0\ObjectProgramming.dll
+C:\projekty\Course\ObjectProgramming\obj\Debug\netstandard2.0\ObjectProgramming.pdb

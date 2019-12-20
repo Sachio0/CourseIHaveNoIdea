@@ -1617,6 +1617,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "Course/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/Course.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Course.dll": {}
+        }
       }
     }
   },
@@ -5803,11 +5813,16 @@
         "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "Course/1.0.0": {
+      "type": "project",
+      "path": "../Course/Course.csproj",
+      "msbuildProject": "../Course/Course.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
-      "C:\\projekty\\Course\\Course\\Start.csproj",
+      "Course >= 1.0.0",
       "MSTest.TestAdapter >= 1.3.2",
       "MSTest.TestFramework >= 1.3.2",
       "Microsoft.NET.Test.Sdk >= 15.9.0",
@@ -5815,23 +5830,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\snowinski\\.nuget\\packages\\": {},
+    "C:\\Users\\snowinskiadm\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projekty\\Course\\Tests\\Tests.csproj",
-      "projectName": "Tests",
-      "projectPath": "C:\\projekty\\Course\\Tests\\Tests.csproj",
-      "packagesPath": "C:\\Users\\snowinski\\.nuget\\packages\\",
-      "outputPath": "C:\\projekty\\Course\\Tests\\obj\\",
+      "projectUniqueName": "C:\\projekty\\Course\\Testing\\Testing.csproj",
+      "projectName": "Testing",
+      "projectPath": "C:\\projekty\\Course\\Testing\\Testing.csproj",
+      "packagesPath": "C:\\Users\\snowinskiadm\\.nuget\\packages\\",
+      "outputPath": "C:\\projekty\\Course\\Testing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\snowinski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\snowinskiadm\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5844,8 +5859,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\projekty\\Course\\Course\\Start.csproj": {
-              "projectPath": "C:\\projekty\\Course\\Course\\Start.csproj"
+            "C:\\projekty\\Course\\Course\\Course.csproj": {
+              "projectPath": "C:\\projekty\\Course\\Course\\Course.csproj"
             }
           }
         }
@@ -5885,16 +5900,5 @@
         "warn": true
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\projekty\\Course\\Course\\Start.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\projekty\\Course\\Course\\Start.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v2.2"
-      ]
-    }
-  ]
+  }
 }
