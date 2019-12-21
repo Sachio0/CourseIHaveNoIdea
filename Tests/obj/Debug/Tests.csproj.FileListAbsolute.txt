@@ -1,0 +1,17 @@
+C:\projekty\Course\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\projekty\Course\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\projekty\Course\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\projekty\Course\Tests\bin\Debug\Tests.dll
+C:\projekty\Course\Tests\bin\Debug\Tests.pdb
+C:\projekty\Course\Tests\bin\Debug\Course2.exe
+C:\projekty\Course\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\projekty\Course\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\projekty\Course\Tests\bin\Debug\Course2.pdb
+C:\projekty\Course\Tests\bin\Debug\Course2.exe.config
+C:\projekty\Course\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\projekty\Course\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\projekty\Course\Tests\obj\Debug\Tests.csprojAssemblyReference.cache
+C:\projekty\Course\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\projekty\Course\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\projekty\Course\Tests\obj\Debug\Tests.dll
+C:\projekty\Course\Tests\obj\Debug\Tests.pdb

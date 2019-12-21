@@ -1,15 +1,16 @@
-﻿using System;
-
-namespace Course
+﻿namespace Course
 {
-    class Program
+    internal class Program
     {
-        
-        static void Main(string[] args)
+        private static void Example()
         {
-            var app = new Application();
-            Console.WriteLine("Hello World!");
-            Console.Read();
+        }
+
+        private static void Main(string[] args)
+        {
+            //var app = new Application();
+            //Console.WriteLine("Hello World!");
+            //Console.Read();
         }
     }
 }
